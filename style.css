@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Zen+Dots&display=swap');
 body {
     text-align: center;
     background: #E0940E;
@@ -7,8 +8,8 @@ body {
 
 h1 {
     text-align: center;
-    font-family:"Times New Roman";
-    font: 50pts;
+    font-family:'Zen Dots', cursive;
+    font-size: 100px;
     color: #ff3819;
 }
 
