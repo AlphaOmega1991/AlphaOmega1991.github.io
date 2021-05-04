@@ -23,25 +23,16 @@ div {
 
 
 header {
-        display: flex; flex-basis:100%;
-	
-    	
-        
-
-        
-        
- 
-
+        display: flex;
+        flex-basis:100%;
         column-count: 3;
-
-        border: 0px solid black;
+        border: 1px solid black;
         margin: 0px;
         padding: 1px;
 
 }
 
 main {
-    column-count: 3;
     margin: 0px;
     padding: 1px;
 }
@@ -64,6 +55,8 @@ footer {
 .content {
 	display:block;
     border: 2px solid red;
+    width:auto;
+    height:auto;
 }
 
 .content section {
