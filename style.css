@@ -23,7 +23,7 @@ div {
 
 
 header {
-        display: flex; flex-wrap: wrap;
+        display: flex; flex-basis:100%;
 	
     	
         
