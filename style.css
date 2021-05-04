@@ -25,10 +25,10 @@ div {
 header {
 
     	
-        width: 100%;
         
-        display: grid;
-        grid-template-columns: 2fr 2fr 2fr 2fr;
+        
+        
+        
  
 
         column-count: 3;
