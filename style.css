@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Zen+Dots&display=swap');
 body {
     text-align: center;
-    background: #f0eded:
+    background: #f0EDED:
     margin: 0px;
     padding: 0px;
 }
@@ -13,8 +13,7 @@ h1 {
     color: solid black;
 }
 
-img {
-}
+
 
 div {
 	padding: 8px;
@@ -69,4 +68,12 @@ footer {
     border: 0px solid green;
 	width:50%;
 	height:100%;
+}
+
+nav {
+    text-align: center;
+    font-size: 50px;
+}
+p {
+    font-size: 50px;
 }
